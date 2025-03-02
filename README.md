@@ -90,9 +90,10 @@ Here is the file:
 **credits.csv: Contains details about actors, directors, and other credits.**
 
 Here is the file:
-[credits.csv](https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/credits.csv)
+[credits.csv](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/credits.csv)
 
 
+(https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/credits.csv)
 
 
 **📈 Key Findings**
