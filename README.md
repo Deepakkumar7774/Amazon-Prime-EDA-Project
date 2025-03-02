@@ -99,7 +99,7 @@ Here is the file:
 
 You can view the complete Jupyter Notebook here:  
 
-📌 [**Medibuddy_Project.ipynb**](./Medibuddy_Project.ipynb)
+📌 [DeepakKumar_Amazon_Prime_Video_EDA.ipynb](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/DeepakKumar_Amazon_Prime_Video_EDA.ipynb)
 
 
 
