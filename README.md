@@ -80,9 +80,17 @@ missingno for visualizing missing data.
 
 **📂 Dataset Details:**
 
-titles.csv: Contains details about movies and TV shows.
+**titles.csv: Contains details about movies and TV shows.**
 
-credits.csv: Contains details about actors, directors, and other credits.
+Here is the file:
+[titles.csv](https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/titles.csv)
+
+
+**credits.csv: Contains details about actors, directors, and other credits.**
+
+Here is the file:
+[credits.csv](https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/credits.csv)
+
 
 
 
