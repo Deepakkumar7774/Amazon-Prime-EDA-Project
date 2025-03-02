@@ -13,7 +13,8 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) of Amazon 
 
 **🔍 Key Insights**
 
-Content Distribution 📈
+
+**Content Distribution 📈**
 
 Analyzed the proportion of movies 🎥 vs. TV shows 📺 to understand the platform's content mix.
 
