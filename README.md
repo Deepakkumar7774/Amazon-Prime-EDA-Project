@@ -84,7 +84,7 @@ missingno for visualizing missing data.
 **titles.csv: Contains details about movies and TV shows.**
 
 Here is the file:
-[titles.csv](https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/titles.csv)
+[titles.csv](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/titles.csv)
 
 
 **credits.csv: Contains details about actors, directors, and other credits.**
@@ -93,7 +93,6 @@ Here is the file:
 [credits.csv](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/credits.csv)
 
 
-(https://raw.githubusercontent.com/deepak-kumar/Amazon-Prime-EDA-Project/blob/main/credits.csv)
 
 
 **📈 Key Findings**
