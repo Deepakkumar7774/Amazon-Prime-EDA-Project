@@ -95,6 +95,14 @@ Here is the file:
 
 
 
+## 📄 Full Analysis
+
+You can view the complete Jupyter Notebook here:  
+
+📌 [**Medibuddy_Project.ipynb**](./Medibuddy_Project.ipynb)
+
+
+
 **📈 Key Findings**
 
 
