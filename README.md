@@ -178,7 +178,11 @@ Inspiration: This project was inspired by the need to understand content trends 
 
 **📧 Contact**
 
-For any questions or feedback, feel free to reach out to **Deepak Kumar**.
+For any questions or feedback, feel free to reach out to
+
+**Deepak Kumar**.
+
+🔗 LinkedIn: [deepakkumar7774](https://www.linkedin.com/in/deepakkumar7774)
 
 Thank you for exploring the Amazon Prime Video EDA project!
 
